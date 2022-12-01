@@ -1,2 +1,2 @@
 # `Laravel Product CRUD`
-![](public/savedImage/sample.gif)
+![](public/savedImage/sample.gif) 
